@@ -1,3 +1,19 @@
-.zag{
-    color:rgb(99, 72, 18)
+body{
+    background-color: black;
+}
+
+.header{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+}
+
+.foto1{
+    background-image:url("https://img.icons8.com/?size=1x&id=11772&format=png");
+    background-repeat:no-repeat; 
+    background-size: 100%;
+    padding: 10px;
+    width: 45px;
+    height: 45px;
 }
