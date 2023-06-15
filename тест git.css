@@ -17,3 +17,10 @@ body{
     width: 45px;
     height: 45px;
 }
+
+.zag1{
+    position: relative;
+    top:18.5px;
+    font-size: 26px;
+    left:10px;
+}
